@@ -1,1 +1,44 @@
-
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Python Bootcamp",
+      "venue": "Jindal Auditorium",
+      "date": "2020-01-19",
+      "time": "10:30",
+      "description": "Learning Basic Python"
+    },
+    {
+      "id": "2",
+      "name": "Java Bootcamp",
+      "venue": "J.P. Auditorium",
+      "date": "2020-02-12",
+      "time": "15:00",
+      "description": "Learning Advanced Java"
+    },
+    {
+      "id": "3",
+      "name": "React Bootcamp",
+      "venue": "Gandhi Auditorium",
+      "date": "2020-04-15",
+      "time": "12:00",
+      "description": "Building React Application"
+    },
+    {
+      "id": "4",
+      "name": "A I Bootcamp",
+      "venue": "J.P. Auditorium",
+      "date": "2020-04-14",
+      "time": "18:00",
+      "description": "Learning Basic Python"
+    },
+    {
+      "id": "5",
+      "name": "Flutter Bootcamp",
+      "venue": "Jindal Auditorium",
+      "date": "2020-06-16",
+      "time": "09:00",
+      "description": "Building Flutter Web Application"
+    }
+  ]
+}
